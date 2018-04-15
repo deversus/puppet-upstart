@@ -1,2 +1,6 @@
-pkg
-.project
+spec/fixtures/
+pkg/
+.bundle/
+
+# vim
+*.swp
